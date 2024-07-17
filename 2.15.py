@@ -1,0 +1,5 @@
+print(bool(True))
+print(bool(False))
+print(bool(10))
+print(bool(12.34))
+print(bool('10'))
